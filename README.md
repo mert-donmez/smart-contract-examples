@@ -1,2 +1,2 @@
-# smart-contract-examples
-Solidity smart contract examples
+# smart contract examples
+## smart contracts i wrote while working solidity
